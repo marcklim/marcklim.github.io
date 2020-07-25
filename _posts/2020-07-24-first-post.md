@@ -5,3 +5,5 @@ I've been looking for a blogging platform for a while. I considered setting up a
 It's actually quite amazing how easy this was to set up. It's even more amazing how flexible this is - I did the entire setup from my iPad but I can work on posts offline and through the magic of git I can also develop pages offline and get good versioning. Updating the jekyll-now should be simple via a pull, I don't have to worry about keeping a server up to date and I don't need to install anything. 
 
 All in all, I'm pretty impressed. A couple hours ago I would not have thought to be using GitHub in this way. Let's see how this does.
+
+Quick update: I also got to use CodeSpaces to update the blog. That thing works well too.

@@ -1,5 +1,5 @@
 ---
-category: IT
+category: Tech
 layout: post
 title: A blog brought to you by GitHub and jekyll-now
 ---

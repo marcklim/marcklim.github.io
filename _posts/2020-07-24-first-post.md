@@ -1,5 +1,7 @@
 ---
 category: IT
+layout: post
+title: a new title
 ---
 
 #A blog brought to you by GitHub and jekyll-now

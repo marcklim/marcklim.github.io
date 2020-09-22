@@ -12,3 +12,9 @@ PM has changed
 - more alignment with the customer
 - hard transition because there is little training material
 - hard transition because engineering still is not there (know it all orgs, SWE and PM seem behind in thinking, Consulting and Sales seem to have an easier time)
+
+
+Much more openness
+- open to different platforms. I use an iPHone and a yubikey
+- companies can keep working the way they have been working - e. g. GH
+- openness to different personas - developers and non-developers, developed and developing countries

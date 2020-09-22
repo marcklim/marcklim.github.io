@@ -18,3 +18,9 @@ Much more openness
 - open to different platforms. I use an iPHone and a yubikey
 - companies can keep working the way they have been working - e. g. GH
 - openness to different personas - developers and non-developers, developed and developing countries
+
+Tools have changed and there are a bunch of new tools
+- It's not your dad's office nay more. SharePoint became OneDrive and teams. You have access on all devices
+- Massive innovation, hard to keep track and stay up to date
+- GitHub has come in, replacing Azure Dev Ops and doing things I didn't think it would do. And someitmes simple seems to be better
+- Being open is becoming more important

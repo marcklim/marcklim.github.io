@@ -24,3 +24,6 @@ Tools have changed and there are a bunch of new tools
 - Massive innovation, hard to keep track and stay up to date
 - GitHub has come in, replacing Azure Dev Ops and doing things I didn't think it would do. And someitmes simple seems to be better
 - Being open is becoming more important
+
+Standards of business conducts has changed - it's now enjoyable but also a conversation / pop culture topic
+We have mandatory trainings on Allyship, Privillege, D&I - and they are pretty good
